@@ -2,6 +2,8 @@
 
 Details Software Engineering Preparation in multi-week intensive course structure.
 
+All Solution in the `Leetcode` directory include the worst case runtime and space complexity analysis.
+
 ## Week 1
 
 -   Arrays
