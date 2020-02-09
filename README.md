@@ -2,9 +2,11 @@
 
 Details Software Engineering Preparation in multi-week intensive course structure.
 
+## Leetcode
+
 All Solution in the `Leetcode` directory include the worst case runtime and space complexity analysis.
 
-## Week 1
+### Week 1
 
 -   Arrays
 -   Basic math
@@ -56,7 +58,7 @@ Union find:
 -   <https://leetcode.com/problems/number-of-islands>
 -   <https://leetcode.com/problems/surrounded-regions>
 
-## Week 2
+### Week 2
 
 -   Hash maps
 -   Hash sets
@@ -91,7 +93,7 @@ Multiset
 -   <https://leetcode.com/problems/set-mismatch>
 -   <https://leetcode.com/problems/number-of-atoms>
 
-Tries
+Tries`
 
 -   <https://leetcode.com/problems/longest-word-in-dictionary>
 -   <https://leetcode.com/problems/implement-trie-prefix-tree>
