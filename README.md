@@ -93,7 +93,7 @@ Multiset
 -   <https://leetcode.com/problems/set-mismatch>
 -   <https://leetcode.com/problems/number-of-atoms>
 
-Tries`
+Tries
 
 -   <https://leetcode.com/problems/longest-word-in-dictionary>
 -   <https://leetcode.com/problems/implement-trie-prefix-tree>
