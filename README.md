@@ -98,3 +98,52 @@ Tries
 -   <https://leetcode.com/problems/longest-word-in-dictionary>
 -   <https://leetcode.com/problems/implement-trie-prefix-tree>
 -   <https://leetcode.com/problems/word-search-ii>
+
+### Week 3
+
+-   Greedy algorithms
+-   Binary search
+-   Sorting
+-   Recursion and memoization
+-   Dynamic programming
+
+**Coding exercises**
+
+Greedy algorithms
+
+-   <https://leetcode.com/problems/lemonade-change>
+-   <https://leetcode.com/problems/assign-cookies>
+-   <https://leetcode.com/problems/is-subsequence>
+-   <https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons>
+-   <https://leetcode.com/problems/partition-labels>
+
+Binary search
+
+-   <https://leetcode.com/problems/binary-search>
+-   <https://leetcode.com/problems/peak-index-in-a-mountain-array>
+
+Sorting
+
+-   <https://leetcode.com/problems/valid-anagram>
+-   <https://leetcode.com/problems/array-partition-i>
+-   <https://leetcode.com/problems/merge-intervals>
+-   <https://leetcode.com/problems/find-all-anagrams-in-a-string>
+
+Simple recursion
+
+-   <https://leetcode.com/problems/powx-n>
+
+Recursion and memoization
+
+-   <https://leetcode.com/problems/best-time-to-buy-and-sell-stock>
+-   <https://leetcode.com/problems/edit-distance>
+-   <https://leetcode.com/problems/house-robber-ii>
+-   <https://leetcode.com/problems/regular-expression-matching/>
+
+Dynamic Programming (same problems but use dynamic programming now!)
+
+-   <https://leetcode.com/problems/powx-n>
+-   <https://leetcode.com/problems/best-time-to-buy-and-sell-stock>
+-   <https://leetcode.com/problems/edit-distance>
+-   <https://leetcode.com/problems/house-robber-ii>
+-   <https://leetcode.com/problems/regular-expression-matching/>
