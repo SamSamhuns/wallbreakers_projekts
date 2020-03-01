@@ -147,3 +147,58 @@ Dynamic Programming (same problems but use dynamic programming now!)
 -   <https://leetcode.com/problems/edit-distance>
 -   <https://leetcode.com/problems/house-robber-ii>
 -   <https://leetcode.com/problems/regular-expression-matching/>
+
+### Week 4
+
+-   Heaps
+-   Linked lists
+-   Stacks
+-   Queues
+-   Combinatorial generation
+-   Backtracking
+
+**Coding exercises**
+
+Linked lists
+
+-   <https://leetcode.com/problems/reverse-linked-list>
+-   <https://leetcode.com/problems/reverse-linked-list-ii>
+-   <https://leetcode.com/problems/odd-even-linked-list>
+-   <https://leetcode.com/problems/intersection-of-two-linked-lists>
+-   <https://leetcode.com/problems/reverse-nodes-in-k-group>
+-   <https://leetcode.com/problems/lru-cache>
+
+Stacks
+
+-   <https://leetcode.com/problems/baseball-game>
+-   <https://leetcode.com/problems/next-greater-element-i>
+-   <https://leetcode.com/problems/backspace-string-compare>
+-   <https://leetcode.com/problems/valid-parentheses>
+-   <https://leetcode.com/problems/score-of-parentheses>
+
+Queues
+
+-   <https://leetcode.com/problems/implement-stack-using-queues/>
+-   <https://leetcode.com/problems/implement-queue-using-stacks/>
+-   <https://leetcode.com/problems/rotate-array>
+
+Heaps
+
+-   <https://leetcode.com/problems/top-k-frequent-elements>
+-   <https://leetcode.com/problems/merge-k-sorted-lists>
+
+Combinatorial generation
+
+-   <https://leetcode.com/problems/subsets>
+-   <https://leetcode.com/problems/permutations>
+-   <https://leetcode.com/problems/combinations>
+-   <https://leetcode.com/problems/generate-parentheses>
+-   <https://leetcode.com/problems/gray-code>
+-   <https://leetcode.com/problems/all-possible-full-binary-trees>
+
+Backtracking
+
+-   <https://leetcode.com/problems/combination-sum>
+-   <https://leetcode.com/problems/partition-equal-subset-sum>
+-   <https://leetcode.com/problems/partition-to-k-equal-sum-subsets>
+-   <https://leetcode.com/problems/sudoku-solver>
