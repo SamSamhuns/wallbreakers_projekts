@@ -1,6 +1,10 @@
 # Wallbreakers Projekt
 
-Details Software Engineering Preparation in multi-week intensive course structure.
+[<img src='img/wallbreakers_logo.svg' />](https://wallbreakers.com/)
+<br/>
+<br/>
+
+Detailed Software Engineering preparation in multi-week intensive course.
 
 ## Leetcode
 
@@ -236,4 +240,9 @@ Top Sort
 ### Week 6
 
 Forking Echo Server
+
 Multithreaded Merge Sort
+
+## Acknowledgments
+
+-   I have no rights to the Wallbreakers logo and they are an exclusive property of [Wallbreakers](https://wallbreakers.com/)
