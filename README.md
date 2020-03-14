@@ -232,3 +232,8 @@ Top Sort
 -   <https://leetcode.com/problems/course-schedule-ii>
 -   <https://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/>
 -   <https://leetcode.com/problems/longest-increasing-path-in-a-matrix>
+
+### Week 6
+
+Forking Echo Server
+Multithreaded Merge Sort
